@@ -1,3 +1,5 @@
 ## 1.0.0
-
-- Initial version, created by Stagehand
+### Added
+ - Files for progressive routing and API
+### Changed
+ - Just a code formatting 
